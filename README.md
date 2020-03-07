@@ -123,7 +123,7 @@ return [
 ```
 
 **NOTES:**
-- Yii won't create the database for you, this has to be done manually before you can access it.
+- Yii won't create the database for you, this has to be done manually before you can access it. Database is provided in the folder. Yii.sql is the main database and Posts.sql is the created table.
 - Check and edit the other files in the `config/` directory to customize your application as required.
 - Refer to the README in the `tests` directory for information specific to basic application tests.
 
